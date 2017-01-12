@@ -4,6 +4,9 @@ git_source(:github) do |repo_name|
   repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
   "https://github.com/#{repo_name}.git"
 end
+
+#Use Jquery FancyBox plugin
+gem 'fancybox-rails'
 #PushType CMS
 gem 'push_type', '~> 0.9.5'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
