@@ -13,5 +13,6 @@
  *= require_tree .
  *= require fancybox
  *= require animate
+ *= require bootstrap
  *= require_self
  */
