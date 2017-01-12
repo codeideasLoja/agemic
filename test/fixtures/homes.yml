@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  texto_1: MyText
+  texto_2: MyText
+  texto_3: MyText
+  texto_4: MyText
+  texto_5: MyText
+  nuestra_compania: MyText
+  nuestros_clientes: 
+
+two:
+  texto_1: MyText
+  texto_2: MyText
+  texto_3: MyText
+  texto_4: MyText
+  texto_5: MyText
+  nuestra_compania: MyText
+  nuestros_clientes: 
