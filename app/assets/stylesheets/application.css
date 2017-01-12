@@ -12,5 +12,6 @@
  *
  *= require_tree .
  *= require fancybox
+ *= require animate
  *= require_self
  */

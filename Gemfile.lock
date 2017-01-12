@@ -40,6 +40,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
+    animate.css-rails (3.2.0)
     arel (7.1.4)
     bcrypt (3.1.11)
     breadcrumbs (0.1.7)
@@ -260,6 +261,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  animate.css-rails (~> 3.2.0)
   byebug
   coffee-rails (~> 4.2)
   fancybox-rails

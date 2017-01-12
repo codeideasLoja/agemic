@@ -5,6 +5,8 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
+#Use Animate-CSS
+gem 'animate.css-rails', '~> 3.2.0'
 #Use Jquery FancyBox plugin
 gem 'fancybox-rails'
 #PushType CMS
